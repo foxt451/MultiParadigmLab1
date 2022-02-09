@@ -1,7 +1,7 @@
 ﻿using System.Diagnostics;
 using System.Runtime.CompilerServices;
 using static System.Console;
-args = new[] { "text.txt" };
+//args = new[] { "text.txt" };
 
 if (args.Length < 1)
 {
